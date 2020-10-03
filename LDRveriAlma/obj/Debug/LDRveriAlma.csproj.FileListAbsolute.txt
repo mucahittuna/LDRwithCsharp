@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\bin\Debug\LDRveriAlma.exe.config
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\bin\Debug\LDRveriAlma.exe
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\bin\Debug\LDRveriAlma.pdb
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.Form1.resources
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.Properties.Resources.resources
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.exe
+C:\Users\90545\source\repos\LDRveriAlma\LDRveriAlma\obj\Debug\LDRveriAlma.pdb
